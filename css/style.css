@@ -111,7 +111,9 @@ header .header-flex .menu-block .rt-section .menu-bar img{
     height: auto;
 
 }
-
+header .logo-block img{
+    width: 95px;
+}
 /* >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> */
 /* ********* >>>>> BANNER >>>>>> ******** */
 .banner {
